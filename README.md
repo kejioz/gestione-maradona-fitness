@@ -1,8 +1,4 @@
 # Gestione Centro Sportivo Maradona Fitness - Docente Annarita Fasolino
-## Salvatore Cangiano N46006792
-## Francesco Brunello N46006794
-## Giovanni Ciccarelli N46005832
-## Antonio Boccarossa N46005892
 
 E' stato sviluppato il sistema software di un centro sportivo per il corso di Ingegneria del Software 2022 - 2023 <br>
 Sono stati documentati tutti i passaggi del ciclo di sviluppo, dall'analisi e specifica dei requisiti al testing <br><br>
